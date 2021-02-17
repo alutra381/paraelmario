@@ -1,0 +1,1 @@
+<?php include_once 'components/form_create.php'; ?>
